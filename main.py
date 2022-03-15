@@ -37,3 +37,4 @@ if __name__ == '__main__':
         n //= 10
         length += 1
     print(length)
+#추가하는 내용 , 코드 수정? 제출기한?
