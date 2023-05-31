@@ -5,3 +5,4 @@ import astropy.io
 
 
 print("hi")
+print("test")
