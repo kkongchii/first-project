@@ -8,3 +8,5 @@ print("hi")
 print("test")
 print("hello")
 print("add")
+
+print("fork test")
